@@ -1,0 +1,45 @@
+body
+{
+    background-color:honeydew;
+    color: darkslategray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header_div
+{
+    font-family:'Pacifico';
+    border-color: darkslategray;
+    color: honeydew;
+    border-style: solid;
+    background-color: darkslategray;
+    margin-top: 20px;
+    letter-spacing: 2.5px;
+    font-weight: lighter;
+}
+
+.main_div button
+{
+    font-family:'Pacifico';
+    margin-top: 10px;
+    background-color: white;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    color: rgb(78, 120, 120);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(78, 120, 120);
+    text-align: center;
+    bottom: 0px;
+    width: 100%;
+    font-size: 15px;
+    background-color: white;
+    border-style: solid;
+    margin-bottom: 20px;
+    line-height: 3;
+    font-family:'Pacifico';
+    letter-spacing: 3px;
+    text-shadow: 5px 5px 5px rgba(78, 120, 120, 0.75);
+}
